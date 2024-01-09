@@ -1,1 +1,1 @@
-This repository consits all the weeky studies  challenges with homwwork in each weekly lessons done during SheCodes-Responsive  workshop.
+This repository contains all the weekly study challenges with homework from each weekly lesson conducted during the SheCodes-Responsive workshop.
